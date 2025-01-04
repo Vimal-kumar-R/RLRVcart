@@ -1,0 +1,19 @@
+npm i= 
+axios
+react-helmet-async
+redux 
+@reduxjs/toolkit
+react-thunk
+redux-devtools-extension 
+react-router-dom
+install -save react-toastify
+npm install react-js-pagination
+npm i rc-sclider
+npm i rc-tooltip
+npm i react-image-magnify =image zooming
+npm i countries-list
+npm i stripe = payment you create account
+mailtrap= you create account mail to send
+npm install @stripe/react-stripe-js @stripe/stripe-js
+stripe DOCS =cridate card details website
+npm install --save mdbreact =metirial design react
